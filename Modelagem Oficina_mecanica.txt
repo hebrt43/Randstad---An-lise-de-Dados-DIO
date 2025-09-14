@@ -1,0 +1,57 @@
+
+
+
+
+# Queries de Relatórios - Banco de Dados Oficina
+
+Este repositório contém exemplos de consultas SQL aplicadas ao banco de dados de uma oficina mecânica multisserviços. As queries demonstram como extrair informações importantes sobre clientes, ordens de serviço, serviços realizados, pagamentos e histórico de OS.
+
+---
+
+## 1. Total de ordens por cliente
+
+Consulta que retorna a quantidade de ordens de serviço realizadas por cada cliente, permitindo identificar os clientes mais frequentes.
+
+---
+
+## 2. Total gasto por cliente
+
+Calcula o valor total pago por cada cliente em todas as ordens de serviço já finalizadas. Útil para acompanhamento de faturamento por cliente.
+
+---
+
+## 3. Serviços realizados por funcionário
+
+Mostra quantas vezes cada funcionário executou cada serviço, permitindo analisar desempenho e carga de trabalho por colaborador.
+
+---
+
+## 4. Ordens em aberto ou em andamento
+
+Lista todas as ordens que ainda não foram concluídas, incluindo informações do veículo e do cliente responsável.
+
+---
+
+## 5. Valor médio gasto por tipo de serviço
+
+Exibe o valor médio pago em cada tipo de serviço, útil para análise de precificação e lucratividade.
+
+---
+
+## 6. Clientes com múltiplas ordens pagas
+
+Identifica clientes que já realizaram e pagaram mais de uma ordem, auxiliando na análise de clientes recorrentes.
+
+---
+
+## 7. Histórico completo de uma ordem de serviço
+
+Exibe a evolução de status de uma ordem específica, permitindo acompanhar alterações e etapas concluídas ao longo do tempo.
+
+---
+
+## 8. Pagamentos pendentes
+
+Lista ordens ainda não pagas, incluindo cliente responsável e valor pendente, facilitando o controle financeiro da oficina.
+
+
